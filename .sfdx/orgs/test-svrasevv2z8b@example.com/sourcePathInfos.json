@@ -1,0 +1,363 @@
+[
+    [
+        "/home/sharique/FruitsImportExport/force-app",
+        {
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1556475730659,
+            "changeTime": 1556475730659,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main",
+        {
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1556475730659,
+            "changeTime": 1556475730659,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640738,
+            "changeTime": 1556594640738,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1556475730659,
+            "changeTime": 1556475730659,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/lwc",
+        {
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1556475730659,
+            "changeTime": 1556475730659,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport",
+        {
+            "sourcePath": "/home/sharique/FruitsImportExport",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1556505511191,
+            "changeTime": 1556505511191,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2102,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "119369ee344ed9c5ab742c7ed9d554a4cd57f6cb"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "8f3d30a94f607cdca19fc6e305e4152720235194"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields/Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "e39b5168ee6b758cc8ea0f1b9a9790b32d914b99"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/layouts/Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/layouts/Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2931,
+            "modifiedTime": 1556594640702,
+            "changeTime": 1556594640702,
+            "contentHash": "5a8e7706cb5101f13d46ce0a1d4d8bafc1f35126"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/flexipages/Global_Fruits_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/flexipages/Global_Fruits_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 512,
+            "modifiedTime": 1556594640714,
+            "changeTime": 1556594640714,
+            "contentHash": "46190df3c79cbc546b2398ddbadfc77e20c3d296"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/tabs/Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/tabs/Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1556594640722,
+            "changeTime": 1556594640722,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/applications/Global_Fruits_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/applications/Global_Fruits_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 616,
+            "modifiedTime": 1556594640734,
+            "changeTime": 1556594640734,
+            "contentHash": "2fb85e22f1b34b526eda9e92a4df53557e3caf8b"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5153,
+            "modifiedTime": 1556594640742,
+            "changeTime": 1556594640742,
+            "contentHash": "6ca4ed0b84401835c1a6fcdc8f3408989d858319"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5153,
+            "modifiedTime": 1556594640746,
+            "changeTime": 1556594640746,
+            "contentHash": "6ca4ed0b84401835c1a6fcdc8f3408989d858319"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19626,
+            "modifiedTime": 1556594640762,
+            "changeTime": 1556594640762,
+            "contentHash": "2f1f4bdd201587a4367f9fed6873a32c3cdae401"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5491,
+            "modifiedTime": 1556594640766,
+            "changeTime": 1556594640766,
+            "contentHash": "1707f763b199eb13bdb4bbf390f991de84904254"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "85854a5d7cdfab6339061a1b234df512795d4860"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640678,
+            "changeTime": 1556594640678,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/objects/Fruit__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640682,
+            "changeTime": 1556594640682,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640702,
+            "changeTime": 1556594640702,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640714,
+            "changeTime": 1556594640714,
+            "contentHash": "7f640e7495a9ec259df6e31ade3ce8d111d52ecb"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640722,
+            "changeTime": 1556594640722,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640734,
+            "changeTime": 1556594640734,
+            "contentHash": "171dbc329d981063f1e19f96c0d73a9309161b9b"
+        }
+    ],
+    [
+        "/home/sharique/FruitsImportExport/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/home/sharique/FruitsImportExport/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1556594640766,
+            "changeTime": 1556594640766,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
